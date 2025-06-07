@@ -28,4 +28,7 @@ Logging sales data with customer info and timestamps
 - Logs every successful purchase in `Sales.txt`.
 - Updates inventory after each transaction.
 
+## ✍️ Author
 
+**Sibu Shaw** 
+🌐 GitHub: https://github.com/Sibu1054
