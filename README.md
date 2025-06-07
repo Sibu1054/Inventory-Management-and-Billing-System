@@ -1,4 +1,4 @@
-# 🛒 Inventory Management and Billing System (Python)
+# 🛒 Inventory Management and Billing System 
 
 This project is a command-line-based Inventory Management and Billing System developed in Python using basic file handling and user input. It allows:
 
